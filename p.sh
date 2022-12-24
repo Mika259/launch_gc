@@ -7,7 +7,7 @@ ls
 echo ""
 sleep 0.5
 #get a file name from user
-echo -e "\e[1;31mFile Name with extension :\e[1;37m\n";read file_name
+echo -e "\e[1;31mFile location :\e[1;37m\n";read file_name
 #default out put for using
 default_output="coutputdefault"
 clear
