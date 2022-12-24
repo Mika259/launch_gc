@@ -45,4 +45,4 @@ Or
 ./p.sh
 ```
 
-[+] This Under Destruction, keep using if good
+- This Under Destruction, keep using if good
