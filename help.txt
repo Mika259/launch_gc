@@ -1,0 +1,11 @@
+[+] Termux Setup
+-Install gcc
+pkg install gcc
+-Install g++
+pkg install g++
+
+[+] Linux Setup
+-Install gcc
+sudo apt install gcc
+-Install g++
+sudo apt install g++
