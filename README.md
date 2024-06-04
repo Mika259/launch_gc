@@ -8,12 +8,13 @@ Run your cpp(c++) file without software or manual compiler !
 - usually linux was installed this gcc and g++
 
 #Termux
-```console
-pkg install gcc
+```shell
+pkg install clang
 ```
-And
-```console
-pkg install g++
+
+#Linux
+```shell
+sudo apt install clang
 ```
 
 #Using this tool
